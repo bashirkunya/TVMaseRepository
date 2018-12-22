@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvMaze.API", "TvMaze.API\TvMaze.API.csproj", "{B6650C20-010D-41DC-9C72-BEC423580A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvMaze.API.UnitTests", "TvMaze.API.UnitTests\TvMaze.API.UnitTests.csproj", "{0B9E507D-B11A-4FA9-81C7-783BD94EE475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6650C20-010D-41DC-9C72-BEC423580A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6650C20-010D-41DC-9C72-BEC423580A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6650C20-010D-41DC-9C72-BEC423580A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6650C20-010D-41DC-9C72-BEC423580A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9E507D-B11A-4FA9-81C7-783BD94EE475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9E507D-B11A-4FA9-81C7-783BD94EE475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9E507D-B11A-4FA9-81C7-783BD94EE475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9E507D-B11A-4FA9-81C7-783BD94EE475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD5335A-9284-4302-AE7B-A7C9076EE725}
+	EndGlobalSection
+EndGlobal
